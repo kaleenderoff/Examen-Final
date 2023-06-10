@@ -1,3 +1,12 @@
 
 Nombre Estudiante: Santiago Rojas
 Correo Electrónico del estudiante: s_rojas9@unisimon.edu.co
+
+Observaciones: 
+Buena aplicción de los conceptos de programación orientada a objetos. Mal la lógica aplicada, 
+Imagine que en BD hay 1 millon de registros. La solución aplicada deja de ser optima ya que consulta sobre la BD 
+el millón de registros para luego comparar con los datos ingresados por el usuario. 
+
+Se debía hacer la consulta a BD pasando de una vez el filtro en el where con los datos de usuario y contraseña ingresados por el usuario
+
+Santiago tiene muy buen talento para programar. Sigalo desarrollando
